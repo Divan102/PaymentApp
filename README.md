@@ -26,6 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
 
-##Personal Notes
+## Personal Notes
 
 This is my First Angular Program using ASP.NET Swagger Api to store data on a local SQL Database
