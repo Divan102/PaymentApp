@@ -29,3 +29,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Personal Notes
 
 This is my First Angular Program using ASP.NET Swagger Api to store data on a local SQL Database
+
+## Screenshots:
+![image](https://github.com/user-attachments/assets/e83b91c3-48fb-440e-9511-bd0c411dd403)
